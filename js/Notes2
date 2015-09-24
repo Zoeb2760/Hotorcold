@@ -1,0 +1,12 @@
+[9/17/15, 5:35:01 PM] Marius Banea: (sky-color = blue) {
+ do something;
+and do something else;
+}
+[9/17/15, 5:35:23 PM] Marius Banea: else if(sky-color = blue)  do something;
+[9/17/15, 5:35:49 PM] Marius Banea: else do something;
+[9/17/15, 5:36:07 PM] Marius Banea: else {do something;}
+[9/17/15, 5:37:48 PM] Marius Banea: alert("number guessed is " + numbertobeguesed)
+[9/17/15, 5:38:10 PM] Marius Banea: alert("color = " + color)
+[9/17/15, 5:39:56 PM] Marius Banea: var minion = '';
+[9/17/15, 5:40:19 PM] Marius Banea: minion = gru + banana + crazy-eyes
+[9/17/15, 5:40:34 PM] Marius Banea: var minion = gru + banana + crazy-eyes

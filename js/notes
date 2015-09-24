@@ -1,0 +1,65 @@
+& < 50) { alert("Ice cold"); }
+         else if (math.abs(guessed - numbertobeguessed) >= 20 && < 30) { alert("cold"); }
+         else alert("hi");
+
+
+
+
+          // $('userGuest').find(guessed).val(''); 
+    //$('#mybutton').on('click',  (function  () {
+    	//var numbertobeguessed=Math.floor((Math.random() * 100) + 1);
+    	// alert(numbertobeguessed);
+
+      // to remove item from list and add to nottom area
+
+
+
+    //var filledInputs = $(':input').filter(function() {return !!this.value;}).length;
+
+    // $('#btn-submit').bind('click', function() {
+  
+
+  /*var x = 0;
+    $(":input").each(function(){
+        if(this.value.length > 0){ x++; };
+    });
+  $('#count').html(x);*/
+
+  /*var max = parseInt(document.getElementById("maxN").value);
+       if(min > max) {
+           alert("Minimum value must be lesser than maximum value. " + min + " > " + max );
+       } 
+ }    
+
+    function MaximumNValidate(){
+       var min = parseInt(document.getElementById("minN").value);
+       var max = parseInt(document.getElementById("maxN").value);
+       if(max<min) {
+           alert("Maximum value must be greater than minimum value."  + min + " > " + max );
+       } 
+  } */
+
+
+
+
+  //Add(items);
+     
+    
+    //document.getElementById("guessButton").onclick = function() {myFunction()};
+
+   //function myFunction() {
+   //document.getElementById("userGuess").value;;
+//}
+
+
+   // var guessed= myFunction();
+   
+   //var guessed = document.getElementById("userGuess").value;
+
+
+
+     //var guessed= function () {
+      //document.getElementById("userGuess").value;
+
+     //}
+     // var guessed = document.getElementById("userGuess").value; /* if moved get wrong cacl */
